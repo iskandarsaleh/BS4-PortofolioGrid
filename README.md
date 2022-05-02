@@ -7,3 +7,5 @@
 HTML, CSS, Font Awesome, Bootstrap
 
 ### Hosted on GitHub Pages at https://darkresq14.github.io/BS4-PortofolioGrid/
+
+⚠️ Not working correctly in GitHub Pages ⚠️
